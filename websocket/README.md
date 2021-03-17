@@ -8,4 +8,4 @@
 
 ✨组件鉴权连接规范：
 
-  * [连接鉴权逻辑](show/openConnect.md)
+  * [连接鉴权逻辑](openConnect.md)
